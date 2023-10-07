@@ -1,4 +1,4 @@
-# LibraSys
+# LibraSys - Library Management System using Java
 
 ## Project Overview
 
